@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash liuqi
 
 helm package helm/minio -d helm-releases/
 
